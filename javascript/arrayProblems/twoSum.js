@@ -1,6 +1,5 @@
 var twoSum = function(nums, target) {
 
-
     const hash = {};
     let n = nums.length;
 
